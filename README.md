@@ -1,0 +1,5 @@
+Primeiramente eu gostaria de agradecer a Imã pela oportunidade de participar desse curso de formação,pois tem sido uma experiência bastante enriquecedora passar por todos esses projetos. Para quem nunca teve um contato direto com a área está sendo completamente gratificante todos os conhecimentos passados e os conteúdos disponibilizados para os estudos.
+
+Esse projeto ampliou demais a minha perspectiva sobre o funcionamento, as dificuldades e o nível de complexidade que o dia a dia do programador demanda. Foi uma experiência muito bacana e estou animado para os futuros projetos que virão.
+
+O projeto trata-se de um gerenciador de tarefas no qual é possível realizar um CRUD sobre as tarefas cadastradas. Tendo como atributos o nome da tarefa, data e hora de início, data e hora de término e o status de progresso da tarefa em questão.

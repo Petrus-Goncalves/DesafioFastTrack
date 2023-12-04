@@ -1,0 +1,72 @@
+#principal{
+    max-width: 550px;
+}
+
+#titulo{
+    text-align: center;
+    margin-top: 50px;
+}
+
+h2{
+    font-size: 16px;
+}
+
+.tabela{
+    padding: 50px;
+    margin-left: auto; 
+    margin-right: auto; 
+    width: 70%;
+}
+
+.container-fluid{
+    margin-top: 80px;
+}
+#botaoCriarTarefa{
+    margin-top: -28px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5px;
+}
+
+.botao-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.botao-container .col {
+    flex: 1 0 auto;
+    margin: 0 5px;  
+    text-align: center;
+}
+
+.botaoPersonalizado {
+    width: 100%; 
+    max-width: 200px; 
+}
+
+#cabecalho{
+    color: white;
+    background-color: rgb(46, 44, 44);
+    position: relative;
+    display: flex; 
+    align-items: center; 
+    padding: 10px; 
+    height: 30px;
+}
+
+#botaoLogout{
+    position: absolute;
+    top: -5;
+    right: 0;
+    color: white;
+}
+
+
